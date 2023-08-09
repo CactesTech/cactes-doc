@@ -2,6 +2,7 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme  } from 'vuepress'
 
 export default defineUserConfig({
+  base: '/cactes-doc/',
   lang: 'zh-CN',
   title: 'Cactes Documentations',
   description: 'All knowledge you need to know about our products',
