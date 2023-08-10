@@ -1,6 +1,4 @@
-
-
-## ULB100
+# ULB100
 
 [Datasheet](./datasheet.md)
 
