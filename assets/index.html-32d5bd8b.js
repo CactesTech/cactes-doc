@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-67eff8fc","path":"/blb200/","title":"BLB200","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1691638581000,"contributors":[{"name":"Jiapeng Li","email":"mail@jiapeng.me","commits":2}]},"filePathRelative":"blb200/README.md"}');export{e as data};

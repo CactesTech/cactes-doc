@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-743b0561","path":"/zh/ulb100/","title":"ULB100","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1691638133000,"contributors":[{"name":"Jiapeng Li","email":"mail@jiapeng.me","commits":2}]},"filePathRelative":"zh/ulb100/README.md"}');export{e as data};
